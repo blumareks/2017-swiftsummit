@@ -7,7 +7,7 @@ Welcome to the espresso style labs with Swift that connect to AI services of IBM
 ## THE LINK: ibm.biz/201710-swift
 
 ## step one - create an account on IBM Cloud
-- use [www.bluemix.com](www.bluemix.com) to sign up for a free account
+- use [www.bluemix.com](http://www.bluemix.com) to sign up for a free account
 
 ## step two - create one of the IBM Watson services
 

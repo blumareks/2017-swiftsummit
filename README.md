@@ -10,7 +10,7 @@ This course is based on the Massive Online Open Course (MooC) that @lennartfr an
 ## step two - create one of the IBM Watson services
 
 There are many AI services at the IBM Cloud available to use.
-![[watson.png]]
+![](watson.png)
 
 These labs use the following:
 - Natural Language Understanding (the lite account)

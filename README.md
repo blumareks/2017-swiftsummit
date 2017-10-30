@@ -2,7 +2,9 @@
 If you like it give me a star!
 
 Welcome to the espresso style labs with Swift that connect to AI services of IBM Watson.
-This course is based on the Massive Online Open Course (MooC) that @lennartfr and I created - check it out
+[This course is based on the Massive Online Open Course (MooC) that @lennartfr and I created - check it out](https://developer.ibm.com/courses/all/create-swift-mobile-apps-ibm-watson-services/)
+
+## THE LINK: https://github.com/blumareks/2017-swiftsummit
 
 ## step one - create an account on IBM Cloud
 - use [www.bluemix.net](www.bluemix.net) to sign up for a free account

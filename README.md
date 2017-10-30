@@ -5,7 +5,7 @@ Welcome to the espresso style labs with Swift that connect to AI services of IBM
 This course is based on the Massive Online Open Course (MooC) that @lennartfr and I created - check it out
 
 ## step one - create an account on IBM Cloud
-- use (www.bluemix.net)[www.bluemix.net] to sign up for a free account
+- use [www.bluemix.net](www.bluemix.net) to sign up for a free account
 
 ## step two - create one of the IBM Watson services
 
